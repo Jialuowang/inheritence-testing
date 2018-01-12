@@ -1,7 +1,7 @@
 
 public class Person 
 {
-	public static void sleeping()
+	public void sleeping()
 	{
 		System.out.println("sleeping is necessary");
 		

@@ -1,7 +1,7 @@
 public class Male extends Person
 	{
 
-		public static void sleeping()
+		public void sleeping()
 			{
 				System.out.println("7 hours sleeping is necessary");
 
